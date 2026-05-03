@@ -1,0 +1,9 @@
+[DEFAULT]
+# OCI Configuration Example
+# Copy to ~/.oci/config and fill in your credentials
+
+user=ocid1.user.oc1..example
+fingerprint=00:11:22:33:44:55:66:77:88:99:aa:bb:cc:dd:ee:ff
+key_file=~/.oci/oci_api_key.pem
+tenancy=ocid1.tenancy.oc1..example
+region=us-phoenix-1

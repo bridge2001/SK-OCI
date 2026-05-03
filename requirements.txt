@@ -1,0 +1,18 @@
+# OCI SDK and Core Dependencies
+oci>=2.0.0
+
+# Utilities
+python-dateutil>=2.8.2
+
+# Development and Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+mock>=5.0.0
+
+# Code Quality
+pylint>=2.15.0
+flake8>=5.0.0
+black>=22.0.0
+
+# Configuration and Logging
+python-dotenv>=0.20.0
